@@ -13,12 +13,16 @@ $(document).ready(function() {
     
     e.preventDefault();
     
-    var nameParts = ["ill", "Kill", "Gold", "Sex", "Money", "Filth", "Neon", "Bass",                  "Funk", "Tiger", "Wolf", "Panty", "Dub", "Glitter", "Star",                  "Plundr", "Snarky", "Pink", "Light", "lazer", "SleezEe", "x",
+    var nameParts = ["ill", "Kill", "Gold", "Sxx", "Money", "Filth", "Neon", "Bass",                  
+                  "Funk", "Tiger", "Wolf", "Pantee", "Dub", "Glitter", "Starr",                  
+                  "Plundr", "Snarky", "Pink", "Light", "lazer", "SleezEe", "x",
                   "Hero", "Kidd", "whip", "luvv", "gunn","trap", "dapz", "Sleepy",
-                  "flip","blurr","fractal","push","nu","faux","Ancient","nama",                  "harmonik"];
+                  "flip","blurr","fractal","push","nu","faux","Ancient","nama",                  
+                  "harmonik", "b*t¢h", "Booty", "shake", "Rokk", "mod", "Flux"];
     var conjunctions = [" ", "", ".", "_", "$", "-", "*", "/", "\\"];
     var namePartsMonth1 = ["flex", "funk"];
-    var namePartsMonth2 = ["tek", "bit", "fresh", "K", "Nasty", "Money",                          "Soul","grime", "chip", "D"];
+    var namePartsMonth2 = ["tek", "bit", "fresh", "K", "Nasty", "Money",                          
+                          "Soul","grime", "chip", "D"];
   
     
     firstLetter = $("#nameIn").val();//.charAt(0);//.toUpperCase();
